@@ -1,8 +1,8 @@
 package com.mintheinwin.xan.smsread;
 
 /**
- * Created by xan on 6/29/2017.
- *
+ * Created by MinTheinWin on 6/29/2017.
+ * Email: mmtw.cs@gmail.com
  */
 
 public interface OnSmsReceivedInterface {

@@ -10,8 +10,8 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * Created by xan on 6/29/2017.
- *
+ * Created by MinTheinWin on 6/29/2017.
+ *  Email: mmtw.cs@gmail.com
  */
 
 public class SmsBroadcastReceiver extends BroadcastReceiver {

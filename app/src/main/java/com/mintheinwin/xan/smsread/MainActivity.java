@@ -4,8 +4,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
 /**
- * Created by xan on 6/29/2017.
- *
+ * Created by MinTheinWin on 6/29/2017.
+ * Email: mmtw.cs@gmail.com
  */
 public class MainActivity extends AppCompatActivity implements OnSmsReceivedInterface {
     TextView txtMessageOTP_Token;
